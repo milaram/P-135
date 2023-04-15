@@ -1,0 +1,23 @@
+footer{
+
+    width:100%;
+    font-family:American Typewriter, serif;
+} 
+
+#warning{
+
+    width:40%;
+    border-radius:7px;
+}
+
+input{
+
+    border-radius: 7px;
+    border-color: rgb(123, 248, 227);
+}
+
+h1{
+
+    color:ivory;
+    font-family:American Typewriter, serif;
+}
